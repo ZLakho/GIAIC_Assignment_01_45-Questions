@@ -1,0 +1,15 @@
+var car = "Honda";
+var bike = "1234";
+var country = "Canada";
+var nameOfPerson = "Zainab Lakho";
+var city = "Islamabad";
+console.log(car == "Honda");
+console.log(car == "civic");
+console.log(bike == "1234");
+console.log(bike == "888");
+console.log(country == "Canada");
+console.log(country == "Pakistan");
+console.log(nameOfPerson == "Zainab Lakho");
+console.log(nameOfPerson == "zainab lakho");
+console.log(city == "Islamabad");
+console.log(city == "karachi");
